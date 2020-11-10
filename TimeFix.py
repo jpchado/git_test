@@ -12,8 +12,9 @@ This code does stuff. trial code for use in Github to see how Github works.
 
 class timefix:
     """
-    a sample code to handle two different time related adjustments.
-    this is just to test out classes and Github.
+    a sample code to handle two different time related adjustments so you can get a standard time string that
+    you can then parse with the datetime module.
+    this is mostly just to test out classes and Github.
     """
     def __init__(self, t):
         pass
